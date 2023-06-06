@@ -39,3 +39,5 @@ Product risks: validation constraints on the fields might be too restrictive to 
 
 <h5> 1.1.6 Evaluating entry criteria</h5>
 The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
+
+<h3> 1.2 Test Monitoring and Control</h3>
